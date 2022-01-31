@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">МайАпп</string>
+    <string name="next">Наступний</string>
+    <string name="previous">Попередній</string>
+</resources>
